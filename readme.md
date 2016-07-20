@@ -34,6 +34,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 #### Wiki
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
+- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
