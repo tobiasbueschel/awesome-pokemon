@@ -1,6 +1,6 @@
 # awesome-pokemon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [Pokemon](https://en.wikipedia.org/wiki/Pokemon) resources, tools and more.
+> A curated list of awesome [Pokemon](https://en.wikipedia.org/wiki/Pokemon) resources, tools and more. *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  
 **Looking for contributors, feel free to put in a pull request if you have something to add :)**  
