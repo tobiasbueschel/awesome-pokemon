@@ -45,6 +45,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
 
 ## APIs
+- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/)
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library
