@@ -6,7 +6,7 @@
 **Looking for contributors, feel free to put in a pull request if you have something to add :)**  
 Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatting and writing pull requests.
 
-### Contents
+## Contents
 - [Resources](#resources)
     - [Official](#official)
     - [Maps](#maps)
