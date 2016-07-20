@@ -26,15 +26,15 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 
 #### Tips And Tricks
-- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon Go
+- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon Go.
 - [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon Go: 21 tips, tricks, and cheats to be the best trainer in the world!
 - [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, 'Pokémon Go' trainer.
-- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - ‘Pokémon Go’: 10 Cheats, Tip & Tricks You Need to Know
+- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - ‘Pokémon Go’: 10 Cheats, Tip & Tricks You Need to Know.
 
 
 #### Wiki
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
-- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org
+- [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://www.pokedex.org.
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
@@ -46,10 +46,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
 
 ## APIs
-- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/)
+- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/).
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
-- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library
+- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
 
 ## Miscellaneous
@@ -65,7 +65,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
 - [PokemonHook](https://github.com/rpplusplus/PokemonHook)
-- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers
+- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers.
 
 ## License
 
