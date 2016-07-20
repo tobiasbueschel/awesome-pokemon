@@ -61,6 +61,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
 - [PokemonHook](https://github.com/rpplusplus/PokemonHook)
+- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers
 
 ## License
 
