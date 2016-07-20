@@ -44,14 +44,17 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
 
-## Miscellaneous
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
-- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
+## APIs
+- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/)
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
-- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
+
+## Miscellaneous
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
+- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
+- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
 - [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
