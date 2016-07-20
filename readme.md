@@ -19,6 +19,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Official
 - [The Official Pokémon Website](http://www.pokemon.com/)
 - [The Official Pokémon YouTube Channel](https://www.youtube.com/user/pokemon)
+  [The Official Pokémon Twitter Account](https://twitter.com/pokemon)
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
@@ -68,4 +69,3 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.
-
