@@ -67,6 +67,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [PokemonHook](https://github.com/rpplusplus/PokemonHook)
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
+- [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the pokemon to slack emoji. 
 
 ## License
 
