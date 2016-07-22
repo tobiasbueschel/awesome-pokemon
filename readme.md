@@ -24,6 +24,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron App around PokemonGo-Map.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
+- [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
 
 #### Tips And Tricks
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon Go.
@@ -61,6 +62,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokemon.
 - [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot script, baking with community.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokemon Go MITM Proxy.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
