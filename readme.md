@@ -52,8 +52,10 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
+- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon GO API for Java.
 
 ## Miscellaneous
+- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
