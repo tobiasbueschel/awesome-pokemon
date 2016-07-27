@@ -9,6 +9,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 ## Contents
 - [APIs](#apis)
 - [Apps](#apps)
+- [Bots](#bots)
 - [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
     - [Official](#official)
@@ -31,18 +32,21 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
 
+## Bots
+- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
+- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
+- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokemon.
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot script, baking with community.
+- [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
+- [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
+- [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokemon Go
 
 ## Miscellaneous
-- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
-- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
 - [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
-- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokemon.
-- [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot script, baking with community.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokemon Go MITM Proxy.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
@@ -53,9 +57,13 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 
 ## Resources
 #### Official
-- [The Official Pokémon Website](http://www.pokemon.com/)
-- [The Official Pokémon YouTube Channel](https://www.youtube.com/user/pokemon)
-- [The Official Pokémon Twitter Account](https://twitter.com/pokemon)
+
+| Pokemon                                                  |           PokemonGo           |            Niantic                      |
+| :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
+| [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
+| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [Google+](https://plus.google.com/+Nianticlabs) |
+| [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
+| [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
