@@ -7,13 +7,49 @@
 Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatting and writing pull requests.
 
 ## Contents
+- [APIs](#apis)
+- [Apps](#apps)
+- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
     - [Official](#official)
     - [Maps](#maps)
     - [Tips & Tricks](#tips-and-tricks)
     - [Wiki](#wiki)
-- [Apps](#apps)
-- [Miscellaneous](#miscellaneous)
+
+## APIs
+- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/).
+- [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
+- [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
+- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
+- [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
+- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon GO API for Java.
+- [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokemon names in JSON.
+
+## Apps
+- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac.
+- [iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service.
+- [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
+
+
+## Miscellaneous
+- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
+- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
+- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+- [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
+- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+- [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokemon.
+- [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot script, baking with community.
+- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokemon Go MITM Proxy.
+- [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
+- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
+- [PokemonHook](https://github.com/rpplusplus/PokemonHook)
+- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers.
+- [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
+- [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the pokemon to slack emoji. 
 
 ## Resources
 #### Official
@@ -41,39 +77,6 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 
-## Apps
-- [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac.
-- [iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service.
-- [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokemon Battle Simulator.
-
-## APIs
-- [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokemon (http://pokeapi.co/).
-- [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
-- [pgoapi](https://github.com/tejado/pgoapi) - Pokemon Go API lib/demo.
-- [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
-- [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
-- [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon GO API for Java.
-- [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokemon names in JSON.
-
-## Miscellaneous
-- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
-- [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack.
-- [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
-- [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-- [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-- [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
-- [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokemon.
-- [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokemon Go Bot script, baking with community.
-- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokemon Go MITM Proxy.
-- [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
-- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
-- [PokemonHook](https://github.com/rpplusplus/PokemonHook)
-- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers.
-- [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
-- [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the pokemon to slack emoji. 
 
 ## License
 
