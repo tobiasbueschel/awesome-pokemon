@@ -53,6 +53,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library.
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokemon Go in C#.
 - [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokemon GO API for Java.
+- [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokemon names in JSON.
 
 ## Miscellaneous
 - [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokemon Go bot that farms for Pokestops and Pokemon.
