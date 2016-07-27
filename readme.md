@@ -19,6 +19,7 @@ Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatti
 #### Official
 - [The Official Pokémon Website](http://www.pokemon.com/)
 - [The Official Pokémon YouTube Channel](https://www.youtube.com/user/pokemon)
+- [The Official Pokémon Twitter Account](https://twitter.com/pokemon)
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the pokemon in your area... and more!
