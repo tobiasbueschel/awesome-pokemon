@@ -1,16 +1,29 @@
-# awesome-pokemon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/tobiasbueschel/awesome-pokemon/pulls)  
+<p align="center">
+  <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
+    <img alt="pokemon" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/English_Pok%C3%A9mon_logo.svg" width="400">
+  </a>
+</p>
 
-<h1 align="center">
-	<br>
-	<img width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/English_Pok%C3%A9mon_logo.svg" alt="awesome-pokemon">
-	<br>
-</h1>
+<h1 align="center">awesome-pokemon</h1>
 
-> A curated list of awesome [Pokemon](https://en.wikipedia.org/wiki/Pokemon) resources, tools and more. *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+<div align="center">
 
+<p align="center">
+  A curated list of awesome <a href="https://en.wikipedia.org/wiki/Pokemon">Pokemon</a> resources, tools and more. <i>Inspired by the <a href="https://github.com/sindresorhus/awesome">awesome</a> list thing.</i>
+</p>
 
-**Looking for contributors, feel free to put in a pull request if you have something to add :)**  
-Please check the [contribution guidelines](CONTRIBUTING.md) for info on formatting and writing pull requests.
+<p align="center">
+  <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  <a href="https://github.com/tobiasbueschel/awesome-pokemon/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
+</p>
+
+<p>
+<i>Looking for contributors, feel free to put in a pull request if you have something to add :) </i>  
+Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob/master/contributing.md">contribution guidelines</a> for info on formatting and writing pull requests.
+</p>
+
+</div>
+
 
 ## Contents
 - [APIs](#apis)
