@@ -30,6 +30,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [APIs](#apis)
 - [Apps](#apps)
 - [Bots](#bots)
+- [Chat](#chat)
+- [Calculators And Stats](#calculators-and-stats)
+- [Communities](#communities)
 - [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
     - [Official](#official)
@@ -47,6 +50,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokemon names in JSON.
 
 ## Apps
+- [PoGoIV - Android only](https://www.reddit.com/r/TheSilphRoad/comments/4trry4/android_iv_calculator_app_pogoiv/?st=ir5eu176&sh=bc2e7d71) - Calculates pokemon battle stats. (Not open source, use at your own risk. It does not request any permissions, so it would not be easy for it to get anything out of yoru phone.)
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 - [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - 👾 Play Pokémon Go from your Mac.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - PokéMon like game on iOS with Location Based Service.
@@ -60,6 +64,21 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
 - [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokemon Go
+
+## Calculators And Stats
+- [https://thesilphroad.com](https://thesilphroad.com/research) - Pokemon Stats, Move Stats, IV calculator
+- [Server Status](http://www.mmoserverstatus.com/pokemon_go)
+- [Egg Statiscics](https://app.cmmcd.com/#/)
+- [Poke Assistant](https://pokeassistant.com/) - collection of calculators.
+
+## Chat
+- [RazerGo](https://go.razerzone.com/) - Localized pokemon go chat.
+- [Slack bot](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokemon.
+
+## Communities
+- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - PokemonGo Subreddit
+- [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - Reverse engineering game/api
+- [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - Very indepth game discussion and such
 
 ## Miscellaneous
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play pokemon go safely or at unavailable area.
@@ -91,6 +110,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron App around PokemonGo-Map.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display pokemon nearby to your location on a map.
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokemon around you.
+- [PokeScanner (android only)](https://github.com/BrianEstrada/PokeScanner) - Android app which scans the area near you for pokemon. Like pokevision in app form.
+- [Poke Vision](https://pokevision.com/) - Find pokemon by location.
 
 #### Tips And Tricks
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon Go.
