@@ -71,6 +71,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - 🎮 WebGL Pokemon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy.
 - [PokemonHook](https://github.com/rpplusplus/PokemonHook)
+- [IsPokemonGoAvailableYet](http://www.ispokemongoavailableyet.com/) - Get notified when Pokemon Go is available in your country.
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node app to check the responsiveness of the Pokemon Go servers.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokemon Go dating service.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the pokemon to slack emoji. 
