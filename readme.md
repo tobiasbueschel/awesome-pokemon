@@ -26,6 +26,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 
 ## Contents
+
+[![Join the chat at https://gitter.im/tobiasbueschel/awesome-pokemon](https://badges.gitter.im/tobiasbueschel/awesome-pokemon.svg)](https://gitter.im/tobiasbueschel/awesome-pokemon?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - [APIs](#apis)
 - [Apps](#apps)
 - [Bots](#bots)
