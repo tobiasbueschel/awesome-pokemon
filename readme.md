@@ -32,11 +32,11 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
     - [Apps](#apps)
     - [Bots](#bots)
     - [Miscellaneous](#miscellaneous)
-- [Resources & Others](#resources-&-others)
+- [Resources & Others](#resources--others)
     - [Communities](#communities)
     - [Official](#official)
     - [Maps](#maps)
-    - [Tips & Tricks](#tips-&-tricks)
+    - [Tips & Tricks](#tips--tricks)
     - [Wiki](#wiki)
     - [Others](#others)
 
