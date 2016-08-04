@@ -9,7 +9,7 @@
 <div align="center">
 
 <p align="center">
-  A curated list of awesome <a href="https://en.wikipedia.org/wiki/Pokemon">Pokemon</a> resources, tools and more. <i>Inspired by the <a href="https://github.com/sindresorhus/awesome">awesome</a> list thing.</i>
+  A curated list of awesome <a href="http://www.pokemon.com/">Pokemon</a> & <a href="http://www.pokemongo.com/">Pokemon Go</a> resources, tools and more. <i>Inspired by the <a href="https://github.com/sindresorhus/awesome">awesome</a> list thing.</i>
 </p>
 
 <p align="center">
