@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
-    <img alt="Awesome-Pokémon" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/English_Pok%C3%A9mon_logo.svg" width="400">
+    <img alt="Awesome-Pokémon" src="http://i.imgur.com/f7GMIOU.png" width="700">
   </a>
 </p>
-
-<h1 align="center">awesome-pokemon</h1>
 
 <div align="center">
 
