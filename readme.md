@@ -42,53 +42,53 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### APIs
 - [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (http://pokeapi.co/).
 - [Pokemon_Go_API](https://github.com/Mila432/Pokemon_Go_API) - Pokémon GO API in Python.
-- [pgoapi](https://github.com/tejado/pgoapi) - Pokémon Go API lib/demo.
+- [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
-- [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon Go in C#.
+- [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
 - [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 
 #### Apps
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
-- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon Go from your Mac.
+- [pokemongo-webspoof](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 
 #### Bots
-- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokémon Go bot that farms for Pokestops and Pokemon.
+- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokemon.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
-- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon Go Bot script, baking with community.
+- [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO Bot script, baking with community.
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
 - [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
-- [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon Go.
+- [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 
 #### Miscellaneous
-- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon Go safely or at unavailable area.
+- [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
 - [pokecrystal](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [x-pokemon](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
 - [pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
-- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon Go MITM Proxy.
+- [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
 - [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokemon get ground into candy.
 - [PoGoTools](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
-- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon Go servers.
+- [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon GO servers.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 - [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - Android app which scans the area near you for Pokémon. Like pokevision in app form.
 
 ## Resources & Others
 #### Communities
-- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon Go Subreddit.
+- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - Reverse engineering game/API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - Very indepth game discussion and such.
-- [RazerGo](https://go.razerzone.com/) - Localized Pokémon Go chat.
-- [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon Go dating service.
+- [RazerGo](https://go.razerzone.com/) - Localized Pokémon GO chat.
+- [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon GO dating service.
 
 #### Official
 
-| Pokémon                                                  |           Pokémon Go          |            Niantic                      |
+| Pokémon                                                  |           Pokémon GO          |            Niantic                      |
 | :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
 | [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
 | [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [Google+](https://plus.google.com/+Nianticlabs) |
@@ -97,16 +97,16 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area... and more.
-- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon Go that shows Pokémons nearby.
+- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémons nearby.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 
 #### Tips & Tricks
-- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon Go.
-- [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon Go: 21 tips, tricks, and cheats to be the best trainer in the world.
-- [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, 'Pokémon Go' trainer.
-- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon Go: 10 Cheats, Tip & Tricks You Need to Know.
+- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
+- [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon GO: 21 tips, tricks, and cheats to be the best trainer in the world.
+- [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, 'Pokémon GO' trainer.
+- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 
 #### Wiki
@@ -117,11 +117,11 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 
 #### Others
-- [IsPokemonGoAvailableYet](http://www.ispokemongoavailableyet.com/) - Get notified when Pokémon Go is available in your country.
-- [Silphroad](https://thesilphroad.com/research) - Pokémon Go tools & reference charts.
-- [Server Status](http://www.mmoserverstatus.com/pokemon_go) - Shows you if Pokémon Go is down.
-- [Egg Statistics](https://app.cmmcd.com/) - Pokémon Go Egg Reporter.
-- [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon Go.
+- [IsPokemonGoAvailableYet](http://www.ispokemongoavailableyet.com/) - Get notified when Pokémon GO is available in your country.
+- [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
+- [Server Status](http://www.mmoserverstatus.com/pokemon_go) - Shows you if Pokémon GO is down.
+- [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
+- [Poke Assistant](https://pokeassistant.com/) - Collection of calculators for Pokémon GO.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
