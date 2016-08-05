@@ -7,7 +7,7 @@
 <div align="center">
 
 <p align="center">
-  A curated list of awesome <a href="http://www.pokemon.com/">Pokémon</a> & <a href="http://www.pokemongo.com/">Pokémon Go</a> resources, tools and more.
+  A curated list of awesome <a href="http://www.pokemon.com/">Pokémon</a> & <a href="http://www.pokemongo.com/">Pokémon GO</a> resources, tools and more.
 </p>
 
 <p align="center">
