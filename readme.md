@@ -17,7 +17,7 @@
 </p>
 
 <p>
-<i>Looking for contributors, feel free to put in a pull request if you have something to add :) </i>  
+<i>Looking for contributors. Submit a pull request if you have something to add :) </i><br>  
 Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob/master/contributing.md">contribution guidelines</a> for info on formatting and writing pull requests.
 </p>
 
@@ -55,12 +55,12 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 
 #### Bots
-- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokemon.
+- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO Bot script, baking with community.
-- [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in python.
+- [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
 - [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 
@@ -72,7 +72,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokemon-reverse-engineering-tools](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
 - [PokeMMO](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
-- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokemon get ground into candy.
+- [pogo-optimizer](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
 - [PoGoTools](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon GO servers.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
@@ -96,8 +96,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 
 #### Maps
-- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area... and more.
-- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémons nearby.
+- [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
+- [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
@@ -105,7 +105,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Tips & Tricks
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
 - [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon GO: 21 tips, tricks, and cheats to be the best trainer in the world.
-- [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, 'Pokémon GO' trainer.
+- [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, Pokémon GO trainer.
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 
