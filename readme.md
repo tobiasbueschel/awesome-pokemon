@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
-    <img alt="Awesome Pokémon" src="https://cdn.rawgit.com/tobiasbueschel/awesome-pokemon/master/logo.png" width="700">
+    <img alt="Awesome Pokémon" src="logo.png" width="700">
   </a>
 </p>
 
