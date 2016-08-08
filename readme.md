@@ -78,6 +78,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon GO servers.
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 - [PokeScanner](https://github.com/BrianEstrada/PokeScanner) - Android app which scans the area near you for Pokémon. Like pokevision in app form.
+- [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon Go from your Genymotion Device.
 
 ## Resources & Others
 #### Communities
