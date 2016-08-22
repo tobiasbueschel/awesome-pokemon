@@ -64,6 +64,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
 - [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
+- [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokemon Go Bot (https://pogo.bot-builder.xyz)
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 #### Miscellaneous
