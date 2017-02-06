@@ -57,13 +57,13 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 
 #### Bots
-- [Pokemon Go Bot](https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
+- [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 - [slack-pokemon](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
 - [PokeSlack](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
 - [TwitchPlaysPokemon](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
 - [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
-- [PokeBot](https://github.com/kylecoburn/PokeBot) - The automated Pokémon speedrunning machine.
+- [PokeBot](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
