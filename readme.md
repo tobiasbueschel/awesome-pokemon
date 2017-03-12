@@ -83,8 +83,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [slack-pokemon-emoji](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 - [PokemonGO-IV-Renamer](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats.
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
-- [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
-- [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO GAME_MASTER versions.
+- [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
+
 ## Resources & Others
 #### Communities
 - [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
