@@ -34,6 +34,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
     - [Communities](#communities)
     - [Official](#official)
     - [Maps](#maps)
+    - [Rare Pokemon Spawns](#rare-pokemon-spawns)
     - [Tips & Tricks](#tips--tricks)
     - [Wiki](#wiki)
     - [Others](#others)
@@ -67,6 +68,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGoBot](https://github.com/jabbink/PokemonGoBot) - Bot that plays Pokémon GO.
 - [Bot Builder for PokemonGoBot](https://github.com/shilch/pogobot-builder) - Simply build your Pokémon GO bot.
 - [PokeBuddy](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
+- [PokeCrot](https://github.com/Spuc3ngine/Pokecrot) - Pokémon Go Bot in C# based on https://github.com/Ar1i/PokemonGo-Bot .
+- [PokeSniper](http://pokesnipe.de/release) - A Pokémon sniper bot for Pokémon GO, can autosnipe Pokémon acquired from http://pokesnipe.de .
+- [PokeSniper2](https://github.com/PvPG0D/PokeSniperV2) - A Pokémon sniper bot for Pokémon GO, can autosnipe Pokémon acquired from https://pokesnipers.com .
 
 #### Miscellaneous
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
@@ -107,8 +111,17 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - Electron app for Pokémon GO that shows Pokémon nearby.
 - [pokelocater](https://github.com/emeth-/pokelocater) - Display Pokémon nearby your location on a map.
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
-- [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
+- [CatchThat](https://skiplagged.com/pokemon/)
+- [PokeSpawn](http://pokespawn.com/) - Display Pokémon on a map where spawn information is gathered from tweets.
+- [Pokecrew](https://pokecrew.com) - A map showing Pokémon sightings which are reported by users.
+
+#### Rare Pokemon Spawns
+- [PogoLocationFeeder](https://github.com/5andr0/PogoLocationFeeder) - Shows Pokémon spawn coordinates acquired from various sources, has PokeSniper2 support.
+- [PokeSnipe](http://pokesnipe.de/) - Live feed of rare Pokémon spawn coordinates, has PokeSniper support.
+- [PokeSnipers](https://pokesnipers.com/) - Live feed of rare Pokémon spawn coordinates, shows time left for despawn, has PokeSniper2 support.
+- [RareSpawns](http://www.rarespawns.be/) - Live feed of rare Pokémon spawn coordinates, shows time left for despawn, has PokeSniper2 support.
+- [Poke ZZ](https://pokezz.com/) - Live feed of rare Pokémon spawn coordinates, shows time left for despawn, has PokeSniper2 support.
 
 #### Tips & Tricks
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
