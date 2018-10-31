@@ -126,7 +126,6 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
 
 #### Others
-- [IsPokemonGoAvailableYet](http://www.ispokemongoavailableyet.com/) - Get notified when Pokémon GO is available in your country.
 - [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
 - [Server Status](http://www.mmoserverstatus.com/pokemon_go) - Shows you if Pokémon GO is down.
 - [Egg Statistics](https://app.cmmcd.com/) - Pokémon GO Egg Reporter.
