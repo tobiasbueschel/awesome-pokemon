@@ -25,7 +25,6 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 
 ## Contents
-- [Contents](#contents)
 - [Development Projects](#development-projects)
     - [APIs](#apis)
     - [Apps](#apps)
@@ -38,7 +37,6 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
     - [Tips & Tricks](#tips--tricks)
     - [Wiki](#wiki)
     - [Others](#others)
-- [License](#license)
 
 ## Development Projects
 #### APIs
