@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://awesome.re/badge-flat.svg"></a>
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
-  <a href="https://gitter.im/tobiasbueschel/awesome-pokemon"><img alt="Chat on Gitter" src="https://badges.gitter.im/tobiasbueschel/awesome-pokemon.svg"></a>
 </p>
 
 <p>
