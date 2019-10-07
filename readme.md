@@ -95,6 +95,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - Very indepth game discussion and such.
 - [RazerGo](https://go.razerzone.com/) - Localized Pokémon GO chat.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon GO dating service.
+- [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
 
 #### Official
 
@@ -104,6 +105,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [Google+](https://plus.google.com/+Nianticlabs) |
 | [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
+| [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
