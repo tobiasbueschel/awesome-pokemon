@@ -102,7 +102,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | Pokémon                                                  |           Pokémon GO          |            Niantic                      |
 | :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
 | [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
-| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [Google+](https://plus.google.com/+Nianticlabs) |
+| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [YouTube](https://www.youtube.com/channel/UCJZnyHeWyS_5abW0qnFNHMg) |
 | [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 | [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
