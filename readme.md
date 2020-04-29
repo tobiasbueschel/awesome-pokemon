@@ -88,6 +88,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
 - [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 - [pokemon-cli](https://github.com/sindresorhus/pokemon-cli) - CLI to get Pokémon names.
+- [pokesprite](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
 
 ## Resources & Others
 #### Communities
