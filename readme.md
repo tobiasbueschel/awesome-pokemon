@@ -48,6 +48,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 - [PokeTypes](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
+- [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
 #### Apps
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
