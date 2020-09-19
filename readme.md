@@ -41,6 +41,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### APIs
 - [PokeAPI](https://github.com/PokeAPI/pokeapi/) - A RESTful API for Pokémon (http://pokeapi.co/).
 - [pgoapi](https://github.com/tejado/pgoapi) - Pokémon GO API lib/demo.
+- [pokemon-API](https://github.com/Purukitto/pokemon-api) - API endpoint that returns Pokemon Data in JSON format (https://pokemon-api.azurewebsites.net/)
 - [Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokémon GO API Node.js library.
 - [Pokemon-Go-Rocket-API](https://github.com/FeroxRev/Pokemon-Go-Rocket-API) - Client API library for Pokémon GO in C#.
 - [Pokemon GO Java API](https://github.com/Grover-c13/PokeGOAPI-Java) - Pokémon GO API for Java.
