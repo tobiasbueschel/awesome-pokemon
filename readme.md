@@ -10,8 +10,10 @@
   A curated list of awesome <a href="http://www.pokemon.com/">Pokémon</a> & <a href="http://www.pokemongo.com/">Pokémon GO</a> resources, tools and more.
 </p>
 
+
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome Badge" src="https://awesome.re/badge-flat.svg"></a>
+  <a href=""><img alt="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/pulls"><img alt="Pull Requests Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"></a>
 </p>
 
