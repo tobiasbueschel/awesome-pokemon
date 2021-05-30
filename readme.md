@@ -91,6 +91,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 - [pokemon-cli](https://github.com/sindresorhus/pokemon-cli) - CLI to get Pokémon names.
 - [pokesprite](https://github.com/msikma/pokesprite) - Database of Pokémon sprites from the core series games, including custom shiny versions.
+- [PokéPalettes](https://github.com/BarryMode/pokepalettes) - 16-bit palettes that represent Pokémon (based on the models from Pokémon GO).
 
 ## Resources & Others
 #### Communities
