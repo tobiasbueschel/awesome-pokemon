@@ -48,6 +48,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon Name API](https://github.com/sindresorhus/pokemon) - Get a list of Pokémon names in JSON.
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 - [PokeTypes](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
+- [TCGdex](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
