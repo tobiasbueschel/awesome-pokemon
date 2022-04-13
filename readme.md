@@ -102,6 +102,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [RazerGo](https://go.razerzone.com/) - Localized Pokémon GO chat.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon GO dating service.
 - [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
+- [Pokémon GO Raiders Discord](https://www.pogoraiders.gg/discord) - A discord for raid hosting and joining with discussions about Pokémon Go.
 
 #### Official
 
