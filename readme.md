@@ -102,6 +102,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [RazerGo](https://go.razerzone.com/) - Localized Pokémon GO chat.
 - [PokeDates](https://www.projectfixup.com/pokedates/) - The first-ever Pokémon GO dating service.
 - [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
+- [Pokémon GO Raiders Discord](https://www.pogoraiders.gg/discord) - A Discord community for raid hosting and joining with discussions about Pokémon GO.
 
 #### Official
 
@@ -112,6 +113,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 | [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
 | [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
 | [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
+| [TikTok](https://www.tiktok.com/@pokemonofficial?lang=en) | [TikTok](https://www.tiktok.com/@pokemongo?lang=en) | [TikTok](https://www.tiktok.com/@niantic?lang=en) |
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
@@ -146,6 +148,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [InfoSpreadsheet#2](https://docs.google.com/spreadsheets/d/1hcFo7-UGWx1k1u1BHOvDhq8foPeRr7YbX2jLjjJK0Qw/) - Pokémon GO species data with their movesets.
 - [PVPoke](https://pvpoke.com/) - A PVP ranking and moveset for Pokémon GO.
 - [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
+- [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
