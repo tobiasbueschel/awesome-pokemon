@@ -30,8 +30,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
     - [Bots](#bots)
     - [Miscellaneous](#miscellaneous)
 - [Resources & Others](#resources--others)
-    - [Communities](#communities)
     - [Official](#official)
+    - [Communities](#communities)
     - [Maps](#maps)
     - [Tips & Tricks](#tips--tricks)
     - [Wiki](#wiki)
@@ -96,6 +96,17 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokédex](https://github.com/veekun/pokedex) - A python library containing data scraped from the Pokémon game. Powers [Veekun](https://veekun.com/).
 
 ## Resources & Others
+
+#### Official
+| Pokémon                                                  |           Pokémon GO          |            Niantic                      |
+| :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
+| [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
+| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [YouTube](https://www.youtube.com/channel/UCJZnyHeWyS_5abW0qnFNHMg) |
+| [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
+| [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
+| [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
+| [TikTok](https://www.tiktok.com/@pokemonofficial?lang=en) | [TikTok](https://www.tiktok.com/@pokemongo?lang=en) | [TikTok](https://www.tiktok.com/@niantic?lang=en) |
+
 #### Communities
 - [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - Reverse engineering game/API.
@@ -105,16 +116,6 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [The PokéCommunity](https://www.pokecommunity.com/index.php) - A dedicated forum to everything Pokémon.
 - [Pokémon GO Raiders Discord](https://www.pogoraiders.gg/discord) - A Discord community for raid hosting and joining with discussions about Pokémon GO.
 
-#### Official
-
-| Pokémon                                                  |           Pokémon GO          |            Niantic                      |
-| :------------------------------------------------------  | :---------------------------- | :-------------------------------------- |
-| [Website](http://www.pokemon.com/) | [Website](http://www.pokemongo.com/) | [Website](https://www.nianticlabs.com/) |
-| [YouTube](https://www.youtube.com/user/pokemon) | [YouTube](https://www.youtube.com/channel/UCA698bls2pjQyiqP9N-iaeg) | [YouTube](https://www.youtube.com/channel/UCJZnyHeWyS_5abW0qnFNHMg) |
-| [Twitter](https://twitter.com/pokemon) | [Twitter](https://twitter.com/PokemonGoApp) | [Twitter](https://twitter.com/NianticLabs) |
-| [Facebook](https://www.facebook.com/Pokemon/) | [Facebook](https://www.facebook.com/PokemonGO/) | [Facebook](https://www.facebook.com/nianticlabs) |
-| [Instagram](https://www.instagram.com/pokemon/?hl=en) | [Instagram](https://www.instagram.com/pokemongoapp/?hl=en) | [Instagram](https://www.instagram.com/nianticlabs/?hl=en) |
-| [TikTok](https://www.tiktok.com/@pokemonofficial?lang=en) | [TikTok](https://www.tiktok.com/@pokemongo?lang=en) | [TikTok](https://www.tiktok.com/@niantic?lang=en) |
 
 #### Maps
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - Live visualization of all the Pokémon in your area and more.
