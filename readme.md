@@ -97,6 +97,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 
 ## Resources & Others
 #### Communities
+- [/r/pokemon](https://www.reddit.com/r/pokemon/) - Pokémon Subreddit.
 - [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - Pokémon GO Subreddit.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - Reverse engineering game/API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - Very indepth game discussion and such.
@@ -123,6 +124,8 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemap](https://github.com/omkarmoghe/Pokemap) - A native Android client to map the Pokémon around you.
 - [Poke Vision](https://pokevision.com/) - Find Pokémon by location.
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
+- [3DS Vivillon Location List and World Map](https://www.pocketmonsters.net/content/Vivillon_Location_List) - Vivillon distribution map for 3DS games (80% accurate for Pokémon GO).
+- [Vivillon Pattern Distribution Borders](https://www.google.com/maps/d/u/2/edit?mid=1woiaZ_m1TXEFJdSpP23saNDY3y_79js&usp=sharing) - Vivillon distribution map for Pokémon GO.
 
 #### Tips & Tricks
 - [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
@@ -131,13 +134,15 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 
 #### Wiki
+- [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
 - [Pokedex.org](https://github.com/nolanlawson/pokedex.org) - Offline-capable Pokédex web site https://pokedex.org.
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
-- [Pokémon GO Wiki](https://pkmngowiki.com/)
+- [Pokémon GO Wiki](https://pokemongo.fandom.com/wiki/Pok%C3%A9mon_GO_Wiki)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 - [GamePress](https://pokemongo.gamepress.gg/)
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
+- [Serebii.net](https://www.serebii.net/)
 
 #### Others
 - [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
