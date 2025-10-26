@@ -156,3 +156,4 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.
+- **Battle Damage Calc (BDC)** — Japanese Pokémon damage calculator (1v1 & 6v6, four-move view, cumulative mode, screens/weather/rank modifiers). No ads. https://bdcpp.pages.dev
