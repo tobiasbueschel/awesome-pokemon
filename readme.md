@@ -49,6 +49,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-Pokedex](https://github.com/Biuni/PokemonGO-Pokedex) - Pokédex of Pokémon GO in JSON.
 - [PokeTypes](https://github.com/fbosch/poke-types) - Get Pokémon types, weaknesses and strengths.
 - [TCGdex](https://github.com/tcgdex/cards-database) - Multi languages Pokémon TCG API.
+- [TCG Price Lookup](https://tcgpricelookup.com/tcg-api) - Live trading card prices for Pokémon and 7 other TCGs with TCGPlayer market data, eBay sold averages, and PSA/BGS/CGC graded prices.
 - [Kotlin-Pokedex](https://github.com/mrcsxsiq/Kotlin-Pokedex) - Pokedex app built with Kotlin.
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
