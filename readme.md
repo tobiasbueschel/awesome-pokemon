@@ -60,6 +60,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokecry](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 - [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
+- [Pokemon Champions AI](https://github.com/mosmosu/pokemon-champions-ai) - Per-turn EV-based battle advisor for competitive Pokémon (open-source, MIT). Calibrated win-rate and plain-language reasons for every move, switch, and Mega choice. [Live demo](https://pokemon-champions-ai.vercel.app).
 
 #### Bots
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
