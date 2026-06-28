@@ -60,6 +60,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [pokecry](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 - [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
+- [TCGScreener - Pokemon](https://tcgscreener.com/pokemon) - Free Analytics and Screener for Pokemon TCG. Price, Pop Data and More.
 
 #### Bots
 - [Pokemon Go Bot](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
