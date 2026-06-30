@@ -35,6 +35,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
     - [Maps](#maps)
     - [Tips & Tricks](#tips--tricks)
     - [Wiki](#wiki)
+    - [Trading Card Game](#trading-card-game)
     - [Others](#others)
 
 ## Development Projects
@@ -139,6 +140,9 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 - [GamePress](https://pokemongo.gamepress.gg/)
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
+
+#### Trading Card Game
+- [PokéTruc](https://poketruc.com/) - Catalogue of language- and region-exclusive Pokémon TCG card illustrations, available in 5 languages.
 
 #### Others
 - [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
