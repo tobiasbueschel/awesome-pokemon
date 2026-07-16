@@ -126,10 +126,11 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [iPokeGo](https://github.com/istornz/iPokeGo) - A native iOS client to map the Pokémon around you.
 
 #### Tips & Tricks
-- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
+- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
 - [Imore](http://www.imore.com/Pokemon-go-tips-tricks-cheats) - Pokémon GO: 21 tips, tricks, and cheats to be the best trainer in the world.
 - [Mashable](http://mashable.com/2016/07/08/how-to-play-pokemon-go/#7iz7HhcepPqi) - How to be the best, least annoying, Pokémon GO trainer.
-- [Heavy](http://heavy.com/games/2016/07/pokemon-go-cheats-tips-tricks-guide-walkthrough-gps-spoof-fake-pikachu-starter-get-coins-throw-candy-incense-footsteps-pokestops-driving-lucky-eggs/) - Pokémon GO: 10 Cheats, Tip & Tricks You Need to Know.
+- [Nuzlocke Guide](https://nuzlockeguide.com/) - Rules, encounter tracking guidance, and strategy references for Pokémon Nuzlocke challenges.
+- [TechCrunch](https://techcrunch.com/gallery/pokemon-go-tips/) - 13 ways to be better at Pokémon GO.
 
 #### Wiki
 - [Pokedex](https://github.com/veekun/pokedex) - More than you ever wanted to know about Pokémon.
