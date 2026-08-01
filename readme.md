@@ -57,6 +57,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 - [Shuffle-Move](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
+- [SpriteChecklist](https://spritechecklist.app) - Track your Pokémon sprite collection progress across all generations with a visual checklist.
 - [pokecry](https://github.com/fent/pokecry) - Guess Pokémon from their cry.
 - [Pokedex](https://github.com/skydoves/Pokedex) - Android Pokedex using Dagger, Hilt, Motion, Coroutines, Flow, and Jetpack.
 - [Who's That Pokémon?](https://github.com/serena2341/whos-that-pokemon) - Guess Pokémon from their silhouette.
