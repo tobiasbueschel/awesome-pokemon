@@ -137,6 +137,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon GO Wiki Guide by IGN](http://www.ign.com/wikis/pokemon-go)
 - [Pokémon GO Wiki](https://pkmngowiki.com/)
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
+- [Pokemon Arena 2D Wiki](https://pokemon-arena-2d.online/) - Unofficial fan wiki for the Pokemon Arena 2D browser battler: tier list, type wheel draft strategy, PC BST HP bonus, Safari Zone and multiplayer codes.
 - [GamePress](https://pokemongo.gamepress.gg/)
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
 
