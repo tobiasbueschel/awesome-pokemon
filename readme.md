@@ -139,6 +139,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokémon GO Wikipedia](https://en.wikipedia.org/wiki/Pok%C3%A9mon_Go)
 - [GamePress](https://pokemongo.gamepress.gg/)
 - [Pokémon Go Info](https://pokemon.gameinfo.io/)
+- [PokéBonk Wiki (BonkDex)](https://pokebonk.info/) - Fan wiki for the browser Pokémon survivor PokéBonk, with Pokédex pages, guides and build tools.
 
 #### Others
 - [Silphroad](https://thesilphroad.com/research) - Pokémon GO tools & reference charts.
