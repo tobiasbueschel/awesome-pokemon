@@ -151,6 +151,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PVPoke](https://pvpoke.com/) - A PVP ranking and moveset for Pokémon GO.
 - [Pokémon GO Calender](https://pokemoncalendar.com/) - Pokémon GO calender events with Google Calendar and timezones support.
 - [Poke Genie](http://www.pokegenie.net/) - A free raid hosting and joining app for [iOS](https://apps.apple.com/us/app/poke-genie-remote-raid-iv-pvp/id1143920524) & [Android](https://play.google.com/store/apps/details?id=com.cjin.pokegenie.standard) with PVP functionalities.
+- [Pokémon Type Chart](https://cv.cm/en/pokemon-type-chart/) - Weakness calculator for any type pair or any Pokémon by name or Pokédex number, with the full 18 × 18 chart, in 8 languages.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
