@@ -53,6 +53,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [graphql-pokemon](https://github.com/lucasbento/graphql-pokemon) - Get information of a Pokémon with GraphQL.
 
 #### Apps
+- [Favorite Pokemon Picker](https://favorite-pokemon.com/) - Choose up to six favorite Pokémon from generations 1–9, share a team card, and optionally contribute to community rankings.
 - [Pokemon-Showdown](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 - [iPokeMon](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
